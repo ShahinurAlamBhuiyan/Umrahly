@@ -49,7 +49,7 @@ This project uses the latest stable versions of modern frontend tools:
 ## 🔐 Privacy & Security Notice
 
 > ⚠️ **Important:**  
-> This project was developed under a **Non-Disclosure Agreement (NDA)** for a **private client** on [Upwork](https://www.upwork.com).  
+> This project was developed under a **Non-Disclosure Agreement (NDA)** for a **private client** on [Upwork](https://www.upwork.com/freelancers/~01bf24b7725d70b752).  
 > 
 > For reasons of **client confidentiality, data sensitivity, and security compliance**, **the source code cannot be shared publicly or distributed**.  
 > 
