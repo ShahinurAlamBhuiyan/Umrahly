@@ -4,8 +4,9 @@
 
 > “Skip the confusion and costs of packaged trips. Perform Umrah on your own terms—with clarity and confidence.”
 
+You can visit the website and preview the UI design on Figma:  
 > 🔗 **Live Preview**: [https://umrahly-client.vercel.app/](https://umrahly-client.vercel.app/)
-
+> 🔗 **Umrahly Platform**: [Figma Design](https://www.figma.com/design/onGp1cwQRkUQRxZFvWqwtB/Umrahly-Platform--Internal-?node-id=314-3373&t=FuD0TQ6eDGvFPAjA-1)
 ---
 
 ## 📌 Overview
