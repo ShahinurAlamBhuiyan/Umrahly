@@ -4,6 +4,8 @@
 
 > “Skip the confusion and costs of packaged trips. Perform Umrah on your own terms—with clarity and confidence.”
 
+> 🔗 **Live Preview**: [https://umrahly-client.vercel.app/](https://umrahly-client.vercel.app/)
+
 ---
 
 ## 📌 Overview
@@ -71,8 +73,8 @@ Want to learn more or work together?
 ## 📸 Screenshots
 
 ### 🏠 Landing Page  
-![Landing Page](/SiteSS/LandingPage.png)
+![Landing Page](/assets/LandingPage.png)
 
 ### 🧭 Our Guide Page  
-![Our Guide Page](/SiteSS/OurGuidePage.png)
+![Our Guide Page](/assets/OurGuidePage.png)
 
